@@ -12,7 +12,6 @@ class Kategori {
         
         for (int i = 0; i < daftarBuku.length; i++) {
             daftarBuku[i].tampilkanBuku();
-            System.out.println();
         }
     }
 }
